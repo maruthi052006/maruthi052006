@@ -1,69 +1,73 @@
 <!-- ============================================================
-  HOW TO USE
-  1. On GitHub, create a PUBLIC repo named exactly: maruthi052006
-     (same as your username) and tick "Add a README".
-  2. Replace its README.md with this file and commit.
-  3. Optional: add repo links to each project (look for "🔗" lines).
+  SETUP
+  1. Create a PUBLIC repo named exactly: maruthi052006  (your username)
+  2. Upload THIS README.md to the repo root
+  3. Upload the whole "assets" folder (header.svg, divider.svg,
+     footer.svg, profile.jpg) to the repo root, next to README.md
+  4. Commit. Your profile page now shows the new design.
 ============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0A66C2&height=200&section=header&text=K.%20Maruthi%20Vasan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descSize=18&descAlignY=58" alt="header banner"/>
+<img src="assets/header.svg" alt="K. Maruthi Vasan - Full Stack Developer and AI and Data Science Engineer" width="100%"/>
 
-<a href="https://github.com/maruthi052006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Full+Stack+%26+AI%2FML+Developer;Exploring+Agentic+AI+%26+Digital+Twins;5+Internships+%7C+8+Projects+%7C+1+Publication;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
-</a>
+<br/>
 
-<p>
-  <a href="https://maruthivasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vasanmaruthi466@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=maruthi052006&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%7C%20Python%20%7C%20AI%2FML%20Roles-brightgreen?style=flat-square" alt="Open to work"/>
-  <img src="https://img.shields.io/badge/Based%20in-Tamil%20Nadu%2C%20India-orange?style=flat-square" alt="Location"/>
-</p>
+<a href="https://maruthivasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:vasanmaruthi466@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/maruthi052006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=maruthi052006&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 👨‍💻 About Me
+## About Me
 
-Final-year **B.Tech (Artificial Intelligence & Data Science)** student at **Coimbatore Institute of Engineering and Technology**, passionate about building scalable web applications and intelligent AI systems that solve real-world problems.
+I'm a final-year **B.Tech (Artificial Intelligence & Data Science)** student at **Coimbatore Institute of Engineering and Technology**. I build scalable web applications and intelligent AI systems that solve real-world problems, and I enjoy teaching what I learn.
 
 ```python
 class MaruthiVasan:
-    role     = ["Full Stack Developer", "AI/ML Engineer", "Technical Trainer"]
-    stack    = ["Python", "Django", "React", "PostgreSQL", "TensorFlow", "PyTorch"]
-    exploring = ["Agentic AI", "Digital Twins", "MLOps", "Post-Quantum Crypto"]
-    mission  = "Turn complex problems into intelligent, reliable, scalable software."
-    open_to  = ["Full Stack Developer", "Python Developer", "AI/ML Engineer"]
+    roles     = ["Full Stack Developer", "AI/ML Engineer", "Technical Trainer"]
+    stack     = ["Python", "Django", "React", "PostgreSQL", "TensorFlow", "PyTorch"]
+    exploring = ["Agentic AI", "Digital Twins", "MLOps", "Post-Quantum Cryptography"]
+    mission   = "Turn complex problems into intelligent, reliable, scalable software."
+    looking_for = ["Full Stack Developer", "Python Developer", "AI/ML Engineer"]
 ```
 
-- 🔭 **Currently:** Robotics & AI Trainer Intern at **i-RoboChakra**, Coimbatore
-- 🌊 **Building:** FloodTwin AI, a multi-agent cognitive digital twin for urban flood prediction
-- 📄 **Published:** Machine learning research on solar energy forecasting
-- 🎓 **Teaching:** Sharing knowledge through hands-on training and practical projects
-- 🎯 **Goal:** Land a Full Stack / Python / AI-ML engineering role and ship impactful products
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Right now**
+- Robotics & AI Trainer Intern at **i-RoboChakra**, Coimbatore
+- Building **FloodTwin AI**, a multi-agent digital twin for urban flood prediction
+- Writing Python + ROS control modules for Arduino-driven robots
 
-## 📊 At a Glance
+</td>
+<td width="50%" valign="top">
+
+**What I'm after**
+- A full-time Full Stack, Python or AI/ML engineering role
+- Projects that combine data, AI and real users
+- Teams that care about clean, maintainable code
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-| 🏢 Internships | 🚀 Projects | 📄 Publication | 🎓 CGPA | 📜 Certifications |
+| Internships | Projects | Research paper | CGPA | Certifications |
 |:---:|:---:|:---:|:---:|:---:|
 | **5** | **8** | **1** | **8.29** | **4+** |
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -94,7 +98,7 @@ class MaruthiVasan:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**AI / Machine Learning / Data**
+**AI, Machine Learning & Data**
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -114,114 +118,117 @@ class MaruthiVasan:
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌊 FloodTwin AI
-**Agentic Cognitive Digital Twin for Urban Flood Prediction & Disaster Management**
+**Agentic cognitive digital twin for urban flood prediction**
 
-A full-stack, multi-agent AI platform that combines real-time satellite/SAR data ingestion, deep learning-based flood prediction, autonomous decision-making, and interactive 3D digital twin visualization for Indian urban flood risk management.
+Multi-agent AI platform combining real-time satellite/SAR data ingestion, deep learning flood prediction, autonomous decision-making and an interactive 3D digital twin for Indian urban flood risk management.
 
 `React.js` `Django` `PostgreSQL` `Celery`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌾 AgroTwin AI
-**AI-Driven Digital Twin Platform for Crop Yield Prediction**
+**Digital twin platform for crop yield prediction**
 
-Integrates the Google Gemini API for crop yield prediction and smart irrigation optimization, achieving **94% prediction accuracy** on a 500-sample validation set.
+Uses the Google Gemini API for crop yield prediction and smart irrigation optimization. Reached **94% prediction accuracy** on a 500-sample validation set.
 
 `Python` `Django` `PostgreSQL` `Gemini API` `Chart.js` `AWS`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ FlowIQ
-**AI-Powered Enterprise Company Management & Workflow Automation**
+**Enterprise management and workflow automation**
 
-A full-stack platform for company management, dynamic form building, workflow automation, approval processes, and analytics.
+Full-stack platform for company management, dynamic form building, workflow automation, approvals and analytics.
 
 `React.js` `TypeScript` `Django` `PostgreSQL` `Redis`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🐞 Bug Buster
-**Secure Symposium Compiler & Evaluation Platform**
+**Secure symposium compiler and evaluation platform**
 
-A team-based competitive debugging platform with real-time code evaluation through **Judge0 API** integration.
+Team-based competitive debugging platform with real-time code evaluation through the Judge0 API.
 
 `Django` `React.js` `JavaScript` `Judge0 API` `Chart.js`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Post-Quantum Cryptography Toolkit
-A Django web app implementing **lattice-based (LWE)** post-quantum cryptography: key generation, encryption, decryption, and secure user-to-user messaging.
+**Lattice-based (LWE) cryptography in the browser**
+
+Django web app for key generation, encryption, decryption and secure user-to-user messaging.
 
 `Django` `Python` `NumPy` `Bootstrap` `SQLite`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🏛️ Management Systems Suite
+**Hotel, Bank and College management**
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🏨 **Hotel Management** | Room bookings, guest records, billing | Django · Bootstrap · PostgreSQL |
-| 🏦 **Bank Management** | Account creation, fund transfers, transaction history, balances | Django · Bootstrap · PostgreSQL |
-| 🎓 **College Management** | Enrollment, attendance, grades, faculty records | Django · Bootstrap · PostgreSQL |
+Room bookings and billing, account transfers and transaction history, student enrollment, attendance and grades.
 
-> 🔗 *Browse all repositories at [github.com/maruthi052006?tab=repositories](https://github.com/maruthi052006?tab=repositories)*
+`Django` `HTML` `CSS` `Bootstrap` `PostgreSQL`
 
----
+</td>
+</tr>
+</table>
 
-## 💼 Experience
+<!-- 🔗 Add repo links here, for example:
+**FloodTwin AI:** https://github.com/maruthi052006/<repo-name> -->
 
-```text
- 2024 ─────────── 2025 ─────────────────────────── 2026
-  │                │                                 │
-  ●  InternPe      ●  GetIn          ●  Live Wire    ●  Infosys VI 7.0 ──► ●  i-RoboChakra
-  AI/ML            Full Stack        Full Stack      Python Full Stack     Robotics & AI
-  Aug–Sep '24      Jun '25           Dec '25         Jul–Aug '26           Aug '26 → Present
-```
+Browse every repository on my [GitHub profile](https://github.com/maruthi052006?tab=repositories).
 
-| Role | Company | Period | Highlights |
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+## Experience
+
+| Role | Company | Period | What I did |
 |---|---|---|---|
-| 🤖 **Robotics & AI Trainer Intern** | i-RoboChakra, Coimbatore | Aug 2026 – Present | Built and tested robotics control modules with Python & ROS for coordinated motion and sensor-based decision-making on Arduino hardware |
-| 🐍 **Python Full Stack Developer Intern** | Infosys Virtual Internship 7.0 | Jul 2026 – Aug 2026 | Built full-stack apps with Python, Django & ReactJS through industry-aligned, project-based learning |
-| ⚙️ **Python Full Stack Developer Intern** | Live Wire Technologies, Mayiladuthurai | Dec 2025 | Delivered **3 responsive modules** using Django REST Framework + ReactJS in Agile sprints |
-| 🌐 **Full Stack Web Developer Intern** | GetIn Technologies, Virudhunagar | Jun 2025 | Engineered **2 production-grade apps**, cutting manual processing time by **30%** |
-| 📈 **AI/ML Intern** | InternPe | Aug 2024 – Sep 2024 | Data preprocessing, visualization & model building with NumPy, Pandas, Matplotlib, Scikit-learn |
+| **Robotics & AI Trainer Intern** | i-RoboChakra, Coimbatore | Aug 2026 – Present | Built and tested robotics control modules with Python and ROS for coordinated motion and sensor-based decisions on Arduino hardware |
+| **Python Full Stack Developer Intern** | Infosys Virtual Internship 7.0 | Jul 2026 – Aug 2026 | Built full-stack apps with Python, Django and ReactJS through industry-aligned, project-based learning |
+| **Python Full Stack Developer Intern** | Live Wire Technologies, Mayiladuthurai | Dec 2025 | Delivered **3 responsive modules** with Django REST Framework and ReactJS in Agile sprints |
+| **Full Stack Web Developer Intern** | GetIn Technologies, Virudhunagar | Jun 2025 | Engineered **2 production-grade apps** that cut manual processing time by **30%** |
+| **AI/ML Intern** | InternPe, Online | Aug 2024 – Sep 2024 | Data preprocessing, visualization and model building with NumPy, Pandas, Matplotlib and Scikit-learn |
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📄 Research Publication
+## Research, Education & Certifications
 
-**Solar Energy Forecasting Using Machine Learning: A Comparative Study of Regression and Deep Learning Models**
-*Published at V.S.B. College of Engineering and Technical Campus, Coimbatore*
+**Publication:** *Solar Energy Forecasting Using Machine Learning: A Comparative Study of Regression and Deep Learning Models*, published at V.S.B. College of Engineering and Technical Campus, Coimbatore.
 
-A comparative study of regression and deep learning techniques for solar energy forecasting.
-
----
-
-## 🎓 Education
-
-| Qualification | Institution | Year | Score |
+| Education | Institution | Year | Score |
 |---|---|---|---|
-| **B.Tech, Artificial Intelligence & Data Science** | Coimbatore Institute of Engineering and Technology (CIET) | 2023 – Present | CGPA **8.29** |
+| **B.Tech, Artificial Intelligence & Data Science** | Coimbatore Institute of Engineering and Technology | 2023 – Present | CGPA **8.29** |
 | Higher Secondary (12th) | SBK Higher Secondary School | 2023 | 74.3% |
 | Secondary (10th) | SBK Higher Secondary School | 2021 | - |
 
----
+**Certifications**
+- Python Full Stack Development, TCDS Computer Education (6-month diploma)
+- Python Full Stack Developer, Artificial Intelligence, Cloud Computing, Front End Developer, Infosys Springboard
+- Machine Learning in Python, Sri Accent Technologies
+- MLOps Industrial Oriented Course, Cispro Technologies
 
-## 📜 Certifications
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- 🐍 **Python Full Stack Development**: TCDS Computer Education (6-Month Diploma)
-- 🎓 **Python Full Stack Developer, AI, Cloud Computing, Front End Developer**: Infosys Springboard
-- 🤖 **Machine Learning in Python**: Sri Accent Technologies
-- ⚙️ **MLOps Industrial Oriented Course**: Cispro Technologies
-
----
-
-## 📈 GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
@@ -230,28 +237,24 @@ A comparative study of regression and deep learning techniques for solar energy 
 
 <img src="https://streak-stats.demolab.com?user=maruthi052006&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=maruthi052006&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maruthi052006&bg_color=1a1b27&color=00d9ff&line=0a66c2&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution graph" width="100%"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤝 Let's Connect
+## Let's Connect
 
-I'd love to connect with developers, AI enthusiasts, researchers, educators, and recruiters to exchange ideas and build meaningful projects.
+I'd like to connect with developers, AI enthusiasts, researchers, educators and recruiters to exchange ideas and build useful things.
 
 <div align="center">
 
-| 📧 Email | 💼 LinkedIn | 🌐 Portfolio | 💻 GitHub |
+| Email | LinkedIn | Portfolio | GitHub |
 |:---:|:---:|:---:|:---:|
 | [vasanmaruthi466@gmail.com](mailto:vasanmaruthi466@gmail.com) | [maruthi-vasan](https://www.linkedin.com/in/maruthi-vasan-k64977a2ba) | [maruthivasan.vercel.app](https://maruthivasan.vercel.app/) | [maruthi052006](https://github.com/maruthi052006) |
 
-📍 Tamil Nadu, India &nbsp;•&nbsp; 🗣️ Tamil (Native), English
+Tamil Nadu, India &nbsp;|&nbsp; Tamil (native), English
 
-**💡 Learn continuously. Build intelligently. Create impact.**
-
-*Thanks for visiting my profile! ⭐ Explore my repositories and let's build something amazing.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00D9FF&height=100&section=footer" alt="footer"/>
+<img src="assets/footer.svg" alt="Learn continuously. Build intelligently. Create impact." width="100%"/>
 
 </div>
