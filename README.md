@@ -1,27 +1,36 @@
 <!-- ============================================================
-  SETUP
-  1. Create a PUBLIC repo named exactly: maruthi052006  (your username)
-  2. Upload THIS README.md to the repo root
-  3. Upload the whole "assets" folder (header.svg, divider.svg,
-     footer.svg, profile.jpg) to the repo root, next to README.md
-  4. Commit. Your profile page now shows the new design.
+  ONE-FILE SETUP (no assets folder needed)
+  1. Create a PUBLIC repo named exactly: maruthi052006
+  2. Paste this whole file as README.md and commit.
+  3. Your photo is loaded from your GitHub profile picture, so set
+     your photo as your avatar: Settings > Public profile > Profile picture.
 ============================================================= -->
 
 <div align="center">
 
-<img src="assets/header.svg" alt="K. Maruthi Vasan - Full Stack Developer and AI and Data Science Engineer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A66C2,100:7C5CFF&height=230&section=header&text=K.%20Maruthi%20Vasan&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=58" alt="header" width="100%"/>
 
-<br/>
+<img src="https://images.weserv.nl/?url=github.com/maruthi052006.png&w=260&h=260&fit=cover&mask=circle&bg=00D9FF&border=6" alt="K. Maruthi Vasan" width="170"/>
 
-<a href="https://maruthivasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:vasanmaruthi466@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/maruthi052006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<img src="https://komarev.com/ghpvc/?username=maruthi052006&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/maruthi052006">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Applications;Full+Stack+%26+AI%2FML+Developer;Exploring+Agentic+AI+%26+Digital+Twins;5+Internships+%7C+8+Projects+%7C+1+Publication;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG"/>
+</a>
+
+<p>
+  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%7C%20Python%20%7C%20AI%2FML%20Roles-2FE39A?style=for-the-badge" alt="Open to work"/>
+</p>
+
+<p>
+  <a href="https://maruthivasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:vasanmaruthi466@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/maruthi052006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maruthi052006&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+</p>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## About Me
 
@@ -29,10 +38,10 @@ I'm a final-year **B.Tech (Artificial Intelligence & Data Science)** student at 
 
 ```python
 class MaruthiVasan:
-    roles     = ["Full Stack Developer", "AI/ML Engineer", "Technical Trainer"]
-    stack     = ["Python", "Django", "React", "PostgreSQL", "TensorFlow", "PyTorch"]
-    exploring = ["Agentic AI", "Digital Twins", "MLOps", "Post-Quantum Cryptography"]
-    mission   = "Turn complex problems into intelligent, reliable, scalable software."
+    roles       = ["Full Stack Developer", "AI/ML Engineer", "Technical Trainer"]
+    stack       = ["Python", "Django", "React", "PostgreSQL", "TensorFlow", "PyTorch"]
+    exploring   = ["Agentic AI", "Digital Twins", "MLOps", "Post-Quantum Cryptography"]
+    mission     = "Turn complex problems into intelligent, reliable, scalable software."
     looking_for = ["Full Stack Developer", "Python Developer", "AI/ML Engineer"]
 ```
 
@@ -65,7 +74,7 @@ class MaruthiVasan:
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## Tech Stack
 
@@ -118,7 +127,7 @@ class MaruthiVasan:
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## Featured Projects
 
@@ -171,7 +180,7 @@ Team-based competitive debugging platform with real-time code evaluation through
 <td width="50%" valign="top">
 
 ### 🔐 Post-Quantum Cryptography Toolkit
-**Lattice-based (LWE) cryptography in the browser**
+**Lattice-based (LWE) cryptography web app**
 
 Django web app for key generation, encryption, decryption and secure user-to-user messaging.
 
@@ -183,7 +192,7 @@ Django web app for key generation, encryption, decryption and secure user-to-use
 ### 🏛️ Management Systems Suite
 **Hotel, Bank and College management**
 
-Room bookings and billing, account transfers and transaction history, student enrollment, attendance and grades.
+Room bookings and billing, fund transfers and transaction history, student enrollment, attendance and grades.
 
 `Django` `HTML` `CSS` `Bootstrap` `PostgreSQL`
 
@@ -191,12 +200,12 @@ Room bookings and billing, account transfers and transaction history, student en
 </tr>
 </table>
 
-<!-- 🔗 Add repo links here, for example:
+<!-- 🔗 Add repo links, for example:
 **FloodTwin AI:** https://github.com/maruthi052006/<repo-name> -->
 
 Browse every repository on my [GitHub profile](https://github.com/maruthi052006?tab=repositories).
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## Experience
 
@@ -208,7 +217,7 @@ Browse every repository on my [GitHub profile](https://github.com/maruthi052006?
 | **Full Stack Web Developer Intern** | GetIn Technologies, Virudhunagar | Jun 2025 | Engineered **2 production-grade apps** that cut manual processing time by **30%** |
 | **AI/ML Intern** | InternPe, Online | Aug 2024 – Sep 2024 | Data preprocessing, visualization and model building with NumPy, Pandas, Matplotlib and Scikit-learn |
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## Research, Education & Certifications
 
@@ -226,7 +235,7 @@ Browse every repository on my [GitHub profile](https://github.com/maruthi052006?
 - Machine Learning in Python, Sri Accent Technologies
 - MLOps Industrial Oriented Course, Cispro Technologies
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## GitHub Activity
 
@@ -241,7 +250,7 @@ Browse every repository on my [GitHub profile](https://github.com/maruthi052006?
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
 
 ## Let's Connect
 
@@ -255,6 +264,8 @@ I'd like to connect with developers, AI enthusiasts, researchers, educators and 
 
 Tamil Nadu, India &nbsp;|&nbsp; Tamil (native), English
 
-<img src="assets/footer.svg" alt="Learn continuously. Build intelligently. Create impact." width="100%"/>
+**Learn continuously. Build intelligently. Create impact.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:0A66C2,100:00D9FF&height=140&section=footer" width="100%" alt="footer"/>
 
 </div>
