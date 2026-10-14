@@ -1,271 +1,160 @@
-<!-- ============================================================
-  ONE-FILE SETUP (no assets folder needed)
-  1. Create a PUBLIC repo named exactly: maruthi052006
-  2. Paste this whole file as README.md and commit.
-  3. Your photo is loaded from your GitHub profile picture, so set
-     your photo as your avatar: Settings > Public profile > Profile picture.
-============================================================= -->
+# 👋 Hey, I'm K. Maruthi Vasan
 
-<div align="center">
+### Full Stack Developer | AI & Data Science Engineer | Technical Trainer
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A66C2,100:7C5CFF&height=230&section=header&text=K.%20Maruthi%20Vasan&fontSize=56&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=58" alt="header" width="100%"/>
-
-<img src="https://images.weserv.nl/?url=github.com/maruthi052006.png&w=260&h=260&fit=cover&mask=circle&bg=00D9FF&border=6" alt="K. Maruthi Vasan" width="170"/>
-
-<a href="https://github.com/maruthi052006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=760&lines=Building+Intelligent+Applications;Full+Stack+%26+AI%2FML+Developer;Exploring+Agentic+AI+%26+Digital+Twins;5+Internships+%7C+8+Projects+%7C+1+Publication;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG"/>
-</a>
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-Full%20Stack%20%7C%20Python%20%7C%20AI%2FML%20Roles-2FE39A?style=for-the-badge" alt="Open to work"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Intelligent+Applications;Full+Stack+%26+AI%2FML+Developer;Exploring+Agentic+AI+%26+Digital+Twins;Turning+Ideas+Into+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
-<p>
-  <a href="https://maruthivasan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vasanmaruthi466@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/maruthi052006"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=maruthi052006&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+<p align="center">
+  <a href="https://maruthivasan.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vasanmaruthi466@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
+## 🚀 About Me
 
-## About Me
+I'm an Artificial Intelligence and Data Science engineer passionate about building scalable web applications, intelligent AI systems, and technology-driven solutions that solve real-world problems.
 
-I'm a final-year **B.Tech (Artificial Intelligence & Data Science)** student at **Coimbatore Institute of Engineering and Technology**. I build scalable web applications and intelligent AI systems that solve real-world problems, and I enjoy teaching what I learn.
+- 💻 Developing full-stack applications with **Python, Django, React.js, and PostgreSQL**.
+- 🤖 Exploring **Artificial Intelligence, Machine Learning, Deep Learning, and Agentic AI**.
+- 🌊 Working on cognitive digital twin concepts for urban flood prediction and disaster management.
+- 🌱 Interested in intelligent automation, enterprise platforms, and data-driven decision-making.
+- 🎓 Sharing technical knowledge through hands-on training and practical projects.
+- 📄 Published research on machine learning approaches for solar energy forecasting.
+- 🎯 Focused on writing maintainable code, learning continuously, and building impactful products.
 
-```python
-class MaruthiVasan:
-    roles       = ["Full Stack Developer", "AI/ML Engineer", "Technical Trainer"]
-    stack       = ["Python", "Django", "React", "PostgreSQL", "TensorFlow", "PyTorch"]
-    exploring   = ["Agentic AI", "Digital Twins", "MLOps", "Post-Quantum Cryptography"]
-    mission     = "Turn complex problems into intelligent, reliable, scalable software."
-    looking_for = ["Full Stack Developer", "Python Developer", "AI/ML Engineer"]
-```
+> **My mission:** Turn complex problems into intelligent, reliable, and scalable software solutions.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-**Right now**
-- Robotics & AI Trainer Intern at **i-RoboChakra**, Coimbatore
-- Building **FloodTwin AI**, a multi-agent digital twin for urban flood prediction
-- Writing Python + ROS control modules for Arduino-driven robots
+## 🛠️ Tech Stack
 
-</td>
-<td width="50%" valign="top">
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c" alt="Python, JavaScript, TypeScript and C"/>
+</p>
 
-**What I'm after**
-- A full-time Full Stack, Python or AI/ML engineering role
-- Projects that combine data, AI and real users
-- Teams that care about clean, maintainable code
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" alt="React, HTML, CSS and Bootstrap"/>
+</p>
 
-</td>
-</tr>
-</table>
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=django,redis" alt="Django and Redis"/>
+</p>
 
-<div align="center">
+### Databases and Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,docker,vscode" alt="PostgreSQL, MySQL, SQLite, Git, GitHub, Docker and VS Code"/>
+</p>
 
-| Internships | Projects | Research paper | CGPA | Certifications |
-|:---:|:---:|:---:|:---:|:---:|
-| **5** | **8** | **1** | **8.29** | **4+** |
+### AI, Machine Learning and Data
+- **Libraries:** NumPy, Pandas, Matplotlib, OpenCV
+- **Machine Learning:** Scikit-learn, Regression, Model Evaluation
+- **Deep Learning:** TensorFlow, PyTorch
+- **Data and Operations:** Data Analysis, MLOps, Power BI
+- **Integration:** REST APIs, AI API integration, asynchronous task processing
 
-</div>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
-
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-**Backend**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**AI, Machine Learning & Data**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools, Cloud & Robotics**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
 ### 🌊 FloodTwin AI
-**Agentic cognitive digital twin for urban flood prediction**
+**Agentic Cognitive Digital Twin for Urban Flood Prediction and Disaster Management**
 
-Multi-agent AI platform combining real-time satellite/SAR data ingestion, deep learning flood prediction, autonomous decision-making and an interactive 3D digital twin for Indian urban flood risk management.
+An intelligent platform concept combining flood prediction, geospatial data, AI-driven decision support, and digital twin visualization to support urban disaster management.
 
-`React.js` `Django` `PostgreSQL` `Celery`
-
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** React.js · Django · PostgreSQL · Celery
 
 ### 🌾 AgroTwin AI
-**Digital twin platform for crop yield prediction**
+**AI-Driven Digital Twin Platform for Crop Yield Prediction**
 
-Uses the Google Gemini API for crop yield prediction and smart irrigation optimization. Reached **94% prediction accuracy** on a 500-sample validation set.
+An AI-powered agricultural platform designed to support crop yield prediction and smart irrigation optimization using machine learning and generative AI integration.
 
-`Python` `Django` `PostgreSQL` `Gemini API` `Chart.js` `AWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** Python · Django · PostgreSQL · Google Gemini API · AWS
 
 ### ⚡ FlowIQ
-**Enterprise management and workflow automation**
+**AI-Powered Enterprise Management and Workflow Automation**
 
-Full-stack platform for company management, dynamic form building, workflow automation, approvals and analytics.
+A full-stack platform for company management, dynamic form creation, workflow automation, approval processes, and analytics.
 
-`React.js` `TypeScript` `Django` `PostgreSQL` `Redis`
-
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** React.js · TypeScript · Django · PostgreSQL · Redis
 
 ### 🐞 Bug Buster
-**Secure symposium compiler and evaluation platform**
+**Secure Symposium Compiler and Evaluation Platform**
 
-Team-based competitive debugging platform with real-time code evaluation through the Judge0 API.
+A competitive debugging and programming platform with automated code evaluation through Judge0 API integration.
 
-`Django` `React.js` `JavaScript` `Judge0 API` `Chart.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** Django · React.js · JavaScript · Judge0 API
 
 ### 🔐 Post-Quantum Cryptography Toolkit
-**Lattice-based (LWE) cryptography web app**
+A web application exploring lattice-based cryptography concepts, including key generation, encryption, decryption, and secure messaging.
 
-Django web app for key generation, encryption, decryption and secure user-to-user messaging.
+**Tech Stack:** Python · Django · NumPy · Bootstrap
 
-`Django` `Python` `NumPy` `Bootstrap` `SQLite`
+### 🏨 Management Systems
+Developed web-based management applications for hotel operations, banking workflows, and college administration.
 
-</td>
-<td width="50%" valign="top">
+**Tech Stack:** Python · Django · HTML · CSS · Bootstrap · PostgreSQL
 
-### 🏛️ Management Systems Suite
-**Hotel, Bank and College management**
+---
 
-Room bookings and billing, fund transfers and transaction history, student enrollment, attendance and grades.
+## 📚 Research & Publication
 
-`Django` `HTML` `CSS` `Bootstrap` `PostgreSQL`
+**Solar Energy Forecasting Using Machine Learning: A Comparative Study of Regression and Deep Learning Models**
 
-</td>
-</tr>
-</table>
+A research publication exploring the application of regression and deep learning techniques to solar energy forecasting.
 
-<!-- 🔗 Add repo links, for example:
-**FloodTwin AI:** https://github.com/maruthi052006/<repo-name> -->
+---
 
-Browse every repository on my [GitHub profile](https://github.com/maruthi052006?tab=repositories).
+## 💼 Professional Experience
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
+- **i-RoboChakra** — Robotics and AI Trainer Intern
+- **Infosys Virtual Internship 7.0** — Python Full Stack Developer Intern
+- **Live Wire Technologies** — Python Full Stack Developer Intern
+- **GetIn Technologies** — Full Stack Web Developer Intern
+- **InternPe** — AI/ML Intern
 
-## Experience
+---
 
-| Role | Company | Period | What I did |
-|---|---|---|---|
-| **Robotics & AI Trainer Intern** | i-RoboChakra, Coimbatore | Aug 2026 – Present | Built and tested robotics control modules with Python and ROS for coordinated motion and sensor-based decisions on Arduino hardware |
-| **Python Full Stack Developer Intern** | Infosys Virtual Internship 7.0 | Jul 2026 – Aug 2026 | Built full-stack apps with Python, Django and ReactJS through industry-aligned, project-based learning |
-| **Python Full Stack Developer Intern** | Live Wire Technologies, Mayiladuthurai | Dec 2025 | Delivered **3 responsive modules** with Django REST Framework and ReactJS in Agile sprints |
-| **Full Stack Web Developer Intern** | GetIn Technologies, Virudhunagar | Jun 2025 | Engineered **2 production-grade apps** that cut manual processing time by **30%** |
-| **AI/ML Intern** | InternPe, Online | Aug 2024 – Sep 2024 | Data preprocessing, visualization and model building with NumPy, Pandas, Matplotlib and Scikit-learn |
+## 📊 GitHub Statistics
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maruthi052006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthi052006&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+</p>
 
-## Research, Education & Certifications
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=maruthi052006&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-**Publication:** *Solar Energy Forecasting Using Machine Learning: A Comparative Study of Regression and Deep Learning Models*, published at V.S.B. College of Engineering and Technical Campus, Coimbatore.
+---
 
-| Education | Institution | Year | Score |
-|---|---|---|---|
-| **B.Tech, Artificial Intelligence & Data Science** | Coimbatore Institute of Engineering and Technology | 2023 – Present | CGPA **8.29** |
-| Higher Secondary (12th) | SBK Higher Secondary School | 2023 | 74.3% |
-| Secondary (10th) | SBK Higher Secondary School | 2021 | - |
+## 🤝 Let's Connect
 
-**Certifications**
-- Python Full Stack Development, TCDS Computer Education (6-month diploma)
-- Python Full Stack Developer, Artificial Intelligence, Cloud Computing, Front End Developer, Infosys Springboard
-- Machine Learning in Python, Sri Accent Technologies
-- MLOps Industrial Oriented Course, Cispro Technologies
+I'm interested in connecting with developers, AI enthusiasts, researchers, educators, and technology professionals to exchange ideas and build meaningful projects.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
+<p align="center">
+  <a href="https://github.com/maruthi052006">GitHub</a> •
+  <a href="https://www.linkedin.com/in/maruthi-vasan-k64977a2ba">LinkedIn</a> •
+  <a href="https://maruthivasan.vercel.app/">Portfolio</a> •
+  <a href="mailto:vasanmaruthi466@gmail.com">Email</a>
+</p>
 
-## GitHub Activity
+<p align="center">
+  <b>💡 Learn continuously. Build intelligently. Create impact.</b>
+</p>
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maruthi052006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruthi052006&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=maruthi052006&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maruthi052006&bg_color=1a1b27&color=00d9ff&line=0a66c2&point=ffffff&area=true&area_color=00d9ff&hide_border=true" alt="Contribution graph" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,100:7C5CFF&height=3" width="100%" alt=""/>
-
-## Let's Connect
-
-I'd like to connect with developers, AI enthusiasts, researchers, educators and recruiters to exchange ideas and build useful things.
-
-<div align="center">
-
-| Email | LinkedIn | Portfolio | GitHub |
-|:---:|:---:|:---:|:---:|
-| [vasanmaruthi466@gmail.com](mailto:vasanmaruthi466@gmail.com) | [maruthi-vasan](https://www.linkedin.com/in/maruthi-vasan-k64977a2ba) | [maruthivasan.vercel.app](https://maruthivasan.vercel.app/) | [maruthi052006](https://github.com/maruthi052006) |
-
-Tamil Nadu, India &nbsp;|&nbsp; Tamil (native), English
-
-**Learn continuously. Build intelligently. Create impact.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,50:0A66C2,100:00D9FF&height=140&section=footer" width="100%" alt="footer"/>
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile! ⭐ Explore my repositories and let's build something amazing.</i>
+</p>
